@@ -100,4 +100,4 @@ function Movie({movie}){
     </div>
     );
 } 
-export default App
+// 
